@@ -1,0 +1,5 @@
+IA para saber que significa algunos códigos
+https://chat.openai.com/chat
+
+Aprender x en y minutos
+https://learnxinyminutes.com/
